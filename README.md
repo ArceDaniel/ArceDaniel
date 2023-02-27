@@ -1,6 +1,4 @@
-<div align="center" style={"width: 200px", "overflow":"hidden"}>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+###<h1> Hi world!!! </h1>
   
 
 ### <div align="center">I'm Daniel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
