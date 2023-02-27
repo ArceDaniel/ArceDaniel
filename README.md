@@ -1,4 +1,4 @@
-<div align="center" style="width: 200px">
+<div align="center" style={"width: 200px", "overflow":"hidden"}>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
