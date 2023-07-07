@@ -4,10 +4,10 @@
 ### <div align="center">I'm Daniel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Psiconnect❤️‍🩹](https://psiconnect.vercel.app/)  
+- 🔭 I’m currently working on [Shokworks❤️‍🩹]([https://psiconnect.vercel.app/](https://shokworks.io/))  
   
 
-- 🌱 I’m currently learning Nest.js with Typescript  
+- 🌱 I’m currently learning React Native
   
 
 - ❓ Ask me about anything related to MERN and PERN stack and related technologies  
